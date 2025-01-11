@@ -6,7 +6,6 @@ export default defineConfig({
   plugins: [react()],
   build: {
     outDir: 'dist',
-    assetsDir: 'images',
-  },
-  base:"/Saas_app"
+    assetsDir: 'assets',
+  }
 })
