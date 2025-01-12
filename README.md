@@ -2,8 +2,8 @@
 
 This project is a SaaS application built using modern web development technologies. It leverages React for the frontend, Vite for the build tool, and various other libraries and tools to enhance development and performance.
 
-![Large Screen View](![1](https://github.com/user-attachments/assets/ea6f44d5-229e-48dd-b0d3-a2362c2cd0c7))
-![Small Screen View](![small-screen](https://github.com/user-attachments/assets/2266bb93-dd04-41f7-ac52-134aab3d3d01))
+![Large Screen View](https://github.com/user-attachments/assets/ea6f44d5-229e-48dd-b0d3-a2362c2cd0c7)
+![Small Screen View](https://github.com/user-attachments/assets/2266bb93-dd04-41f7-ac52-134aab3d3d01)
 
 ## Table of Contents
 
