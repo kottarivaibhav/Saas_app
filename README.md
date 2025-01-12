@@ -10,9 +10,6 @@ This project is a SaaS application built using modern web development technologi
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Skills Learned](#skills-learned)
 - [Contributing](#contributing)
 - [License](#license)
 
